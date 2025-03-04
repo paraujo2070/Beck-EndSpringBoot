@@ -1,4 +1,4 @@
-package br.com.pedroantonio.PlanejamentoFinanceiro;
+package br.com.pedroaraujo.PlanejamentoFinanceiro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
